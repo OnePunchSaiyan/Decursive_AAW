@@ -23,10 +23,11 @@
 
 ## X-License: All Rights Reserved
 
-## OptionalDeps: Ace3, CallbackHandler-1.0, LibQTip-1.0, LibDataBroker-1.1, LibDBIcon-1.0 
+## OptionalDeps: Ace3, CallbackHandler-1.0, LibQTip-1.0, LibDataBroker-1.1, LibDBIcon-1.0
+## RequiredDeps: ClassFixer
 
 ## LoadManagers: AddonLoader
-## X-LoadOn-Class: Mage, Priest, Paladin, Druid, Hunter, Warlock, Shaman
+## X-LoadOn-Class: Mage, Priest, Paladin, Druid, Hunter, Warlock, Shaman, Necromancer
 
 
 ## X-Embeds: Ace3, LibStub, CallbackHandler-1.0, LibQTip-1.0, LibDataBroker-1.1, LibDBIcon-1.0
